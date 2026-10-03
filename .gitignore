@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.local
+.env.production
+backend/src/uploads/products/*
+backend/src/uploads/prescriptions/*
+!backend/src/uploads/products/.gitkeep
+!backend/src/uploads/prescriptions/.gitkeep
+!backend/src/uploads/products/placeholder-medicine.svg
+dist/
+build/
+coverage/
+npm-debug.log*
+.DS_Store
+.vscode/
+.idea/
