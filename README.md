@@ -1,4 +1,4 @@
-# Pill Stream — Online Pharmacy Management System using MERN Stack
+# Pill Stream - Online Pharmacy Management System using MERN Stack
 
 Pill Stream is a complete MERN stack online pharmacy and medicine e-commerce system for **BISMILLAH Pharmacy**. It includes a public medicine store, customer authentication, cart and checkout, prescription upload structure, admin dashboard, product/category/user/order management, reports, invoice generation, and complete FYP documentation.
 
